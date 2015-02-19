@@ -70,6 +70,8 @@ Iodine slides into the amylose coil to give it a blue-black color. More specific
 * [Wikipedia on Iodine Test](http://en.wikipedia.org/wiki/Iodine_test)
 * [Images](http://bit.ly/1ALI41i) of the spiral shape of Starch polymer
 * [Spiral shape of the Starch](http://chemwiki.ucdavis.edu/Biological_Chemistry/Carbohydrates/Polysaccharides/Starch) polymer @ ucdavis
+* [Gmol](http://webglmol.sourceforge.jp/glmol/viewer.html) is a 3D molecule viewer that can load molecules given their _RCSB PDBID_, which is some kind of identification number that chemists use to identify known molecules. I found starch [here](http://cbm.msoe.edu/teachRes/library/ml.html), look in **Model Details** section.
+* [Entry on Amylose @ pubchem](https://www.ncbi.nlm.nih.gov/pccompound?term=amylose)
 
 ## Further deep dives
 
