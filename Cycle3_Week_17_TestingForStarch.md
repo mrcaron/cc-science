@@ -83,4 +83,6 @@ Iodine slides into the amylose coil to give it a blue-black color. More specific
 
 * Iodine Clock Reaction
 * [Construction of molecules from candy](https://www.exploratorium.edu/science_explorer/geo_gumdrops.html)
-* [Mr. Wizard! explains the reaction](http://youtu.be/U8Wa4UhE3YA)
+* Mr. Wizard explains the reaction!<br/><a href="http://www.youtube.com/watch?feature=player_embedded&v=U8Wa4UhE3YA
+" target="_blank"><img src="http://img.youtube.com/vi/U8Wa4UhE3YA/0.jpg" 
+alt="Mr. Wizard! explains the reaction" width="240" height="180" border="10" /></a>
