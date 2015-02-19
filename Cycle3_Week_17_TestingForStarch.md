@@ -67,6 +67,7 @@ Iodine slides into the amylose coil to give it a blue-black color. More specific
 * [Polymer explained](http://www.chemistryexplained.com/Pl-Pr/Polymers-Natural.html)
 * [Wikipedia on Starches under Polysaccharides](http://en.wikipedia.org/wiki/Polysaccharide#Starches)
 * [Wikipedia on Postassium Iodide](http://en.wikipedia.org/wiki/Potassium_iodide)
+* [Wikipedia on Iodine Test](http://en.wikipedia.org/wiki/Iodine_test)
 
 ## Further deep dives
 
