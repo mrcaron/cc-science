@@ -8,6 +8,8 @@ We start with the question, "Why does it change to a blue color?" And we can sta
 
 Chemically speaking, we're talking about Starch and Iodine (actually Potassium Iodide). A Starch molecule... etc. etc. and has a spiral shape because of the bonding of it's atoms. Potassium Iodide forms these links of 3-iodine molecules like little rods that pass into the hole of the spiral. Prior to the Potassium Iodide, light was absorbed/radiated by starch in a certain way, then we added the reagant and we now have a different light absorbtion/radiation. The reagant doesn't interact with any other molecule this way, ONLY starch, which is why this test can be used to detect if an object contains starch, like when people test a dollar bill. Dollar bills are made with a special fabric that is actually not paper, it is starchless. If you put this stuff on a dollar bill, it won't change color. However, ameteur counterfeiters will use a regular paper to print their money on and if you apply this test, you'll get a blue color. That's one of the reasons, when you give a $100 bill at a store, they will rub it with a particular highlighter (this isn't an iodine pen, of course, they are using a different chemical reaction as the test, but the principle is the same). 
 
+During the experiment, give each student a Saltine cracker. Tell them to chew it without swallowing until they taste it becoming sweet. They are observing the process of their saliva (containing _amylase_ enzymes) breaking apart the starch polymer chain into it's glucose units. A chemical reaction in their mouth!
+
 ## Grammar
 
 * Carbohydrate
