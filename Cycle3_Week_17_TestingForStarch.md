@@ -69,6 +69,7 @@ Iodine slides into the amylose coil to give it a blue-black color. More specific
 * [Wikipedia on Postassium Iodide](http://en.wikipedia.org/wiki/Potassium_iodide)
 * [Wikipedia on Iodine Test](http://en.wikipedia.org/wiki/Iodine_test)
 * [Images](http://bit.ly/1ALI41i) of the spiral shape of Starch polymer
+* [Spiral shape of the Starch](http://chemwiki.ucdavis.edu/Biological_Chemistry/Carbohydrates/Polysaccharides/Starch) polymer @ ucdavis
 
 ## Further deep dives
 
