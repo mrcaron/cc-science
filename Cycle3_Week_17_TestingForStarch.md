@@ -31,21 +31,24 @@ During the experiment, give each student a Saltine cracker. Tell them to chew it
   * _AKA_ Amylum
   * It's a _polysaccharide_, a long chain of sugar molecules ![Starch Molecule](http://www.visionlearning.com/img//library/modules/mid61/Image/VLObject-801-021205011213.gif)
   * Plants store energy in starches, so when we eat them, we have access to that energy! (Tie it to Anatomy) - When we eat starches, an enzyme that occurs in saliva and in the intestines called _amylase_ breaks the bonds between the repeating glucose units, thus allowing the sugar to be absorbed into the bloodstream. This is why, if you eat a saltine cracker and you just keep chewing it in your mouth without swallowing it, it becomes sweet.
+  * alpha acetal linkage - bonding the occurs between two C atoms of two different glucose molecules to an oxegen, allowing the formation of these chains of sugars
 * Polymer
   * A large molecule consisting of  reoccurring units of a smaller molecule
   * Can be thought of as a chain in which small molecules called monomers form the links
   * One can observe polymers using an _atomic force microscope_!
 * Monomer
   * Any molecule that may become chemically bonded to other molecules of the same type to form a larger molecule called a _polymer_.
-
-* Iodine
+* Diatomic Molecule
+  * molecules composed of only two atoms, of either the same or different chemical elements; if it's the same element, said to be _homonuclear_. 
+  * H, N, O, F, Cl are the only homonuclear elements at STP (standard temp and pressure). Iodine (and Bromine) form diatomic molecules at slightly elevated levels; that is, when you heat them up. These elements are so reactive that they cannot exist on their own, they bond with themselves if nothing else is there to bond with.
+* 53 Iodine (I) 126
+  * Iodine itself isn't very soluable in water; it's a metal. It's a rare element, indicated by high atomic number. Mostly occurs as a _diatomic molecule_.
+  * Aqueous solutions of iodide salts dissolve iodine better than pure water. This effect is due to the formation of the triiodide ion, which is brown
 * Potassium Iodide
-* glucose
+  * The iodine molecule slips inside of the amylose coil. Iodine - KI Reagent: Iodine is not very soluble in water, therefore the iodine reagent is made by dissolving iodine in water in the presence of potassium iodide. This makes a linear triiodide ion complex with is soluble that slips into the coil of the starch causing an intense blue-black color.  
 * Isotope Profiling
 * Chromatography
 * Colloidal dispersion
-* insoluble
-* alpha acetal linkage
 
 ## Talking Points
 
