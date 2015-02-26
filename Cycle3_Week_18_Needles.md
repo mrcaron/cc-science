@@ -18,11 +18,19 @@ From [eHow](http://www.ehow.com/how-does_5750721_do-epsom-salt-crystals-form_.ht
 
 # Grammar
 
+* Crystal
+  * A crystal is an organized grouping of atoms, or molecules.
+  * Each crystal has different properties and shapes. For example, sugar crystals are oblong and slanted at the ends; salt crystals are cubic. Some elements can make more that one crystalline form. Carbon, as graphite, will conduct electricity, act as a lubricant between moving parts, be used as a writing tool (a pencil) and strengthen of steel. As diamond, carbon is used as an industrial cutting tool and as a gemstone in jewelry.
 * Discontinuity
 * States of Matter
 * Nucleation
 * Lattice
 * Phase transitions
+
+# Talking Points
+
+* In talking about how crystals form, you can bring the kids back to the egg floating experiment, when we talked about how water pulls apart the **Na** and **Cl** in Salt to form **Na<sup>+</sup>** and **Cl<sup>-</sup>**. Well, when the water evaporates, those atoms will bond back together because the water's getting out of the way. And because the bond is ionic (i.e. charge-based), the charge eminates in all directions, pulling the atoms into a rigid lattice (i.e. a **crystal**).
+* Crystals vibrate with electric charge (yes, even salt). The vibrations can be used to transmit sound waves (i.e. radios!) and keep time (i.e. quartz-based clocks); quartz vibrates at 60 Hz (60 times per second) when electric current is applied to it (which is why your watch has a battery).
 
 # Resources
 
