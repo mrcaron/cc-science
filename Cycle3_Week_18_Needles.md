@@ -15,3 +15,9 @@ From [eHow](http://www.ehow.com/how-does_5750721_do-epsom-salt-crystals-form_.ht
 > Evaporation is the process in which water becomes a gas and rises. Epsom salt, which does not change 
 > states as easily as water does, remains behind in its solid form, resulting in long needle-like 
 > formations.
+
+# Resources
+
+* Alternative project at [Science for Kids](http://babbledabbledo.com/science-for-kids-crystal-garden/)
+* Alternative project to [grow a crystal sun catcher](http://babbledabbledo.com/science-kids-crystal-suncatcher-craft/)
+* Alternative project to [grow crystals in seconds](http://chemistry.about.com/od/crystalrecipes/ht/quickcrystals.htm)
