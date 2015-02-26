@@ -16,8 +16,22 @@ From [eHow](http://www.ehow.com/how-does_5750721_do-epsom-salt-crystals-form_.ht
 > states as easily as water does, remains behind in its solid form, resulting in long needle-like 
 > formations.
 
+# Grammar
+
+* Discontinuity
+* States of Matter
+* Nucleation
+* Lattice
+* Phase transitions
+
 # Resources
 
 * Alternative project at [Science for Kids](http://babbledabbledo.com/science-for-kids-crystal-garden/)
 * Alternative project to [grow a crystal sun catcher](http://babbledabbledo.com/science-kids-crystal-suncatcher-craft/)
 * Alternative project to [grow crystals in seconds](http://chemistry.about.com/od/crystalrecipes/ht/quickcrystals.htm)
+* How Crystals Form from [Kiki Web](http://www.chemistry.co.nz/crystals_forming.htm)
+* [Ducksters](http://www.ducksters.com/science/crystals.php) on Crystals
+* [National Museum of Nat. History](http://www.mnh.si.edu/earth/text/2_2_2_2.html) on crystal growth
+* [Crystal formation](http://youtu.be/rQB4Hwi4O-M) youtube
+* [Wikipedia](http://en.wikipedia.org/wiki/Crystal_growth) on Crystal growth
+* [Wikipedia](http://en.wikipedia.org/wiki/Crystallization) on Crystalization
