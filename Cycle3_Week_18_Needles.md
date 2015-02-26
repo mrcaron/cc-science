@@ -35,3 +35,4 @@ From [eHow](http://www.ehow.com/how-does_5750721_do-epsom-salt-crystals-form_.ht
 * [Crystal formation](http://youtu.be/rQB4Hwi4O-M) youtube
 * [Wikipedia](http://en.wikipedia.org/wiki/Crystal_growth) on Crystal growth
 * [Wikipedia](http://en.wikipedia.org/wiki/Crystallization) on Crystalization
+* [Science Kids At Home](http://www.sciencekidsathome.com/science_topics/what_are_crystals.html) on Crystals
